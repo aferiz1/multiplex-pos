@@ -1,0 +1,9 @@
+:root {
+  --mainBcg: #cfe08c;
+  --mainGrey: #aeaeae;
+  --lightGrey: #fafafa;
+}
+
+body {
+  background: var(--mainBcg) !important;
+}
